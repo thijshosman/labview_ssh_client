@@ -1,0 +1,17 @@
+G:\LabSSH\LabSSH\LabSSH\bin\Debug\LabSSH.dll
+G:\LabSSH\LabSSH\LabSSH\bin\Debug\LabSSH.pdb
+G:\LabSSH\LabSSH\LabSSH\bin\Debug\Renci.SshNet.dll
+G:\LabSSH\LabSSH\LabSSH\obj\Debug\LabSSH.csprojResolveAssemblyReference.cache
+G:\LabSSH\LabSSH\LabSSH\obj\Debug\LabSSH.dll
+G:\LabSSH\LabSSH\LabSSH\obj\Debug\LabSSH.pdb
+C:\Working Folder\ssh.git\LabSSH\LabSSH\LabSSH\bin\Debug\LabSSH.dll
+C:\Working Folder\ssh.git\LabSSH\LabSSH\LabSSH\bin\Debug\LabSSH.pdb
+C:\Working Folder\ssh.git\LabSSH\LabSSH\LabSSH\bin\Debug\Renci.SshNet.dll
+C:\Working Folder\ssh.git\LabSSH\LabSSH\LabSSH\obj\Debug\LabSSH.dll
+C:\Working Folder\ssh.git\LabSSH\LabSSH\LabSSH\obj\Debug\LabSSH.pdb
+C:\Working Folder\ssh.git\LabSSH\LabSSH\LabSSH\obj\Debug\LabSSH.csprojResolveAssemblyReference.cache
+C:\Users\gpayne\Desktop\LabSSH\LabSSH\LabSSH\bin\Debug\LabSSH.dll
+C:\Users\gpayne\Desktop\LabSSH\LabSSH\LabSSH\bin\Debug\LabSSH.pdb
+C:\Users\gpayne\Desktop\LabSSH\LabSSH\LabSSH\bin\Debug\Renci.SshNet.dll
+C:\Users\gpayne\Desktop\LabSSH\LabSSH\LabSSH\obj\Debug\LabSSH.dll
+C:\Users\gpayne\Desktop\LabSSH\LabSSH\LabSSH\obj\Debug\LabSSH.pdb

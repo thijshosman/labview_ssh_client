@@ -1,0 +1,39 @@
+command:
+3333\r\n
+
+reply
+3333\r\n3333:\scommand\snot\sfound\r\ngit@hosman7dt3500-ubuntu:~$\s\r\ngit@hosman7dt3500-ubuntu:~$\s
+
+prompt: git@hosman7dt3500-ubuntu:~$\s
+
+
+
+
+so in total: 
+echo of command: 3333\r\n
+reply: 3333:\scommand\snot\sfound\r\n
+prompt: git@hosman7dt3500-ubuntu:~$\s\r\n
+prompt: git@hosman7dt3500-ubuntu:~$\s
+
+
+
+effect of 1 CR:
+
+\r\n
+git@hosman7dt3500-ubuntu:~$\s\r\n
+git@hosman7dt3500-ubuntu:~$\s\r\n
+git@hosman7dt3500-ubuntu:~$\s
+
+
+input: 
+cr lf
+
+output: 
+cr lf
+prompt space cr lf
+prompt space cr lf
+prompt space
+
+
+
+

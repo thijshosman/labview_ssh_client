@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabSSH", "LabSSH\LabSSH.csproj", "{4D29153D-14FE-4CC3-B0B0-EEF8D7796034}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSH Form Application", "SSH Form Application\SSH Form Application.csproj", "{BE511D07-5CB5-4EE4-803B-DA8991F30F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D29153D-14FE-4CC3-B0B0-EEF8D7796034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D29153D-14FE-4CC3-B0B0-EEF8D7796034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D29153D-14FE-4CC3-B0B0-EEF8D7796034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D29153D-14FE-4CC3-B0B0-EEF8D7796034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE511D07-5CB5-4EE4-803B-DA8991F30F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE511D07-5CB5-4EE4-803B-DA8991F30F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE511D07-5CB5-4EE4-803B-DA8991F30F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE511D07-5CB5-4EE4-803B-DA8991F30F15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
